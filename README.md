@@ -10,7 +10,9 @@
 * ❤️ I love programming & learning new things
 * ⚡ Fun fact: ...
 * ![Snake animation](https://github.com/mudasirashraf156/mudasirashraf156/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!---
 mudasirashraf156/mudasirashraf156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
