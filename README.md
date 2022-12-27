@@ -12,7 +12,7 @@
 * ![Snake animation](https://github.com/mudasirashraf156/mudasirashraf156/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🅜🅤🅓🅐🅢🅘🅡%20🅜🅤🅓🅐🅢🅘🅡&fontSize=90" /></p>
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🅜🅤🅓🅐🅢🅘🅡%20🅐🅢🅗🅡🅐🅕&fontSize=90" /></p>
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
