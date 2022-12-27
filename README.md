@@ -9,7 +9,6 @@
 * 📫 How to reach me:mudasirashraf156@gmail.com
 * ❤️ I love programming & learning new things
 * ⚡ Fun fact: ...
-* ![Snake animation](https://github.com/mudasirashraf156/mudasirashraf156/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🅜🅤🅓🅐🅢🅘🅡%20&fontSize=90" /></p>
