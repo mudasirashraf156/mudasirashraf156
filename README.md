@@ -3,7 +3,7 @@
 * 👂 My name is Mudasir Ashraf
 * 👩 Pronouns: ...Mudasir Ashraf
 * 🔭 I’m currently working on </>
-* 🌱 I’m currently learning javascript.
+* 🌱 I’m currently learning javascript--react.
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about ...anything
 * 📫 How to reach me:mudasirashraf156@gmail.com
