@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Seeker , Curious learner &  PERN Stack web 2.0 developer</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboob-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="mudasir156" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirashraf156&label=Profile%20views&color=0e75b6&style=flat" alt="mudasir156" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS PERNStack**
+- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS MERNStack**
 
 - 💬 Ask me about **MERN stack,React,Nextjs ,Tailwind CSS, Web2.0**
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehboob-hussain&show_icons=true&locale=en&layout=compact" alt="mehboob-hussain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboob-hussain&show_icons=true&locale=en" alt="mehboob-hussain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudasir156&show_icons=true&locale=en" alt="mehboob-hussain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehboob-hussain&" alt="mehboob-hussain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirashraf156&" alt="mudasirashraf156" /></p>
