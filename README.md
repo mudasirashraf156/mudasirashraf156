@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirashraf156&label=Profile%20views&color=0e75b6&style=flat" alt="mudasir1ashraf56" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS MERNStack**
+- 🌱 I’m currently learning **React,NextJs, ,Nodejs, TailwindCSS MERNStack**
 
 - 💬 Ask me about **MERN stack,React,Nextjs ,Tailwind CSS, Web2.0**
 
