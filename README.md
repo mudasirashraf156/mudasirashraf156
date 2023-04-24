@@ -9,7 +9,3 @@
 - 💬 Ask me about **MERN stack,React,Nextjs ,Tailwind CSS, Web2.0**
 
 - 📫 How to reach me **mudasirashraf156@gmail.com**
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirashraf156&" alt="mudasirashraf156" /></p>
