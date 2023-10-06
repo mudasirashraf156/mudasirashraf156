@@ -4,6 +4,6 @@
 
 - 🌱 DND ****
 
-- 
+- 🧠 Focused on Learning: My days are filled with the pursuit of knowledge. Whether it's diving into the latest research, exploring new skills, or uncovering fresh insights, I'm committed to expanding my horizons.
 
 - 📫 How to reach me **mudasirashraf156@gmail.com**
