@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 I'm a passionate developer with a deep curiosity for **backend development, security, and automation**. My journey revolves around learning, building, and solving real-world problems with technology.
 
-- 🌱 **Currently Exploring**: Backend Development (Django, Frappe), DevOps, and CI/CD.  
+- 🌱 **Currently Exploring**: Backend Development (Django), DevOps, and CI/CD.  
 - 🔍 **Interests**: Security, Web Development, and System Design.  
 - 💡 **Always Learning**: Expanding my knowledge through hands-on projects and research.  
 - 📬 **Let's Connect**: Reach me at **mudasirashraf156@gmail.com**  
@@ -16,17 +16,9 @@ I'm a passionate developer with a deep curiosity for **backend development, secu
 
 ## ⚡ Tech Stack  
 💻 **Languages**: Python, JavaScript, SQL  
-🚀 **Frameworks**: Django, Frappe  
+🚀 **Frameworks**: Django, React
 📦 **DevOps & Tools**: Docker, GitHub Actions, Selenium  
 🛠️ **Databases**: MySQL, PostgreSQL  
 
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasirashraf&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
 
 📌 Always open to collaboration and new opportunities. Let's **build something amazing together!** 🚀  
