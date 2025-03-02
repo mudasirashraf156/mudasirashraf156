@@ -1,11 +1,32 @@
-<h1 align="center">Hi there! 👋 I'm Mudasir Ashraf</h1>
+<h1 align="center">Hey there! 👋 I'm Mudasir Ashraf</h1>
 
-<!-- [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)] -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coding GIF">
+</p>
 
-- 🌱 Currently immersed in the world of DND (Do Not Disturb) to focus on my projects.
+## 🚀 About Me  
+I'm a passionate developer with a deep curiosity for **backend development, security, and automation**. My journey revolves around learning, building, and solving real-world problems with technology.
 
-- 🧠 Passionate Learner: My days are dedicated to the relentless pursuit of knowledge. Whether delving into the latest research, acquiring new skills, or unraveling fresh insights, I'm committed to expanding my horizons.
+- 🌱 **Currently Exploring**: Backend Development (Django, Frappe), DevOps, and CI/CD.  
+- 🔍 **Interests**: Security, Web Development, and System Design.  
+- 💡 **Always Learning**: Expanding my knowledge through hands-on projects and research.  
+- 📬 **Let's Connect**: Reach me at **mudasirashraf156@gmail.com**  
 
-- 📫 Reach me at **mudasirashraf156@gmail.com**
+---
 
-Passionate developer with a keen interest in security and more, I'm always on the lookout for exciting challenges and opportunities to grow. Let's connect and explore the world of tech together! 🚀🔒
+## ⚡ Tech Stack  
+💻 **Languages**: Python, JavaScript, SQL  
+🚀 **Frameworks**: Django, Frappe  
+📦 **DevOps & Tools**: Docker, GitHub Actions, Selenium  
+🛠️ **Databases**: MySQL, PostgreSQL  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasirashraf&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+📌 Always open to collaboration and new opportunities. Let's **build something amazing together!** 🚀  
